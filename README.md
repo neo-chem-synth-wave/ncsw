@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Elix%2C%20Inc.-%235EB6B3?style=flat)
 ![Static Badge](https://img.shields.io/badge/Institute%20of%20Science%20Tokyo-%231C3177?style=flat)
 
-Welcome to the NeoChemSynthWave project !!!
+Welcome to the **NeoChemSynthWave** project !!!
 
 
 ## Installation
